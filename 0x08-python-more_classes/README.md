@@ -1,0 +1,1 @@
+# the directory contains examples files on Python Classes and Objects manipulation
