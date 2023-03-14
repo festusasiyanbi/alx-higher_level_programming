@@ -1,12 +1,12 @@
 # 0x0D. SQL - Introduction
 
-## Resource
+## Resources
 
 - [SQL Tutorial - w3-schools](https://www.w3schools.com/sql/default.asp)
 - [Databases](./Databases_Concepts.pdf)
 - [What is Database & SQL](https://www.youtube.com/watch?v=FR4QIeZaPeM)
 - [A Basic MySQL Tut](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
-- [Basic SQL statements:DDL and DML](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/ddldml.php) (*no need to read the chapter "Privileges"*)
+- [Basic SQL statements:DDL and DML](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/ddldml.php) (**no need to read the chapter 'Privileges'**)
 - [Basic queries: SQL and RA](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/queries.php)
 - [SQL technique: functions](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/functions.php)
 - [SQL technique: subqueries](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/subqueries.php)
