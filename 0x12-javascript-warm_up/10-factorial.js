@@ -1,5 +1,4 @@
 #!/usr/bin/node
-
 const factorial = (n) => {
   if (isNaN(n)) {
     return 1;
