@@ -1,13 +1,13 @@
 #!/usr/bin/node
-const factorial = (n) => {
-  if (isNaN(n)) {
-    return 1;
-  } else if (n <= 1) {
-    return 1;
-  } else {
-    return n * factorial(n - 1);
-  }
-};
+// Compute factorial with Javascript
 
-console.log(factorial(process.argv[2]));
+const x = parseInt(process.argv[2]);
 
+function findFactorial (x) {
+  if (!x) { return 1; }
+
+  if (x <= 0) { return; }
+  return findFactorial(x - 1) * x;
+}
+
+console.log(findFactorial(x));

@@ -1,6 +1,7 @@
-#@/usr/bin/node
-function incrementAndCall(number, theFunction) {
+#!/usr/bin/node
+function addMeMaybe (number, theFunction) {
   number++;
   theFunction(number);
 }
-incrementAndCall(5, printNumber);
+
+exports.addMeMaybe = addMeMaybe;
